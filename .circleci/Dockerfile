@@ -1,4 +1,3 @@
-FROM    circleci/golang:1.9
 
 # The base circleci image runs as user 'circleci'(3434), with sudo capabilities.
 # Based on Debian9. Go installed in /usr/local/go
